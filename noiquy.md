@@ -35,6 +35,7 @@ Những tài khoản có dạng như sau sẽ **KHÔNG** được phép tham gia
   - Mức lương:
   - Phúc lợi và các thông tin khác(nếu có):
   - Thông tin liên hệ:
+  
   Đặt các **Hashtag** bắt buột như sau: #ĐỊAĐIỂM, #LOẠICÔNGVIỆC, #NGÀNHNGHỀ. Ví dụ: #HCM, #FULLTIME, #SALE
   
   **Ví dụ về một bài đăng:**
