@@ -36,8 +36,8 @@ Những tài khoản có dạng như sau sẽ **KHÔNG** được phép tham gia
   - Phúc lợi và các thông tin khác(nếu có):
   - Thông tin liên hệ:
   Đặt các **Hashtag** bắt buột như sau: #ĐỊAĐIỂM, #LOẠICÔNGVIỆC, #NGÀNHNGHỀ. Ví dụ: #HCM, #FULLTIME, #SALE
-  Ví dụ về một bài đăng:
-  ![baiviet](https://i.imgur.com/d5Ou3Kf.jpg)
+  **Ví dụ về một bài đăng:**
+  [baiviet](https://i.imgur.com/d5Ou3Kf.jpg)
     
 
 ### VỀ HASHTAG
