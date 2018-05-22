@@ -1,8 +1,7 @@
-![J2TEAM Community](https://3.bp.blogspot.com/-ASwf6KwwdAM/Wdo7LXx0hkI/AAAAAAAAD8o/vSNWFYpVaogD65JMfwCmMOtXJOeby5SKgCLcBGAs/s1600/j2team-community-birthday.png)
 
-# NỘI QUY NHÓM J2TEAM COMMUNITY
+# NỘI QUY GROUP HỘI HỖ TRỢ VIỆC LÀM
 
-Để tránh việc bị Kick, Ban hoặc bị xóa bài mà không biết nguyên nhân tại sao, đề nghị các bạn vui lòng **đọc kỹ nội quy** trước khi tham gia nhóm.
+Để tránh việc bị ban hoặc bị xóa bài mà không biết nguyên nhân tại sao, các bạn vui lòng **đọc kỹ nội quy** trước khi tham gia nhóm.
 
 ## NỘI QUY VỀ TÀI KHOẢN
 
@@ -11,41 +10,35 @@ Những tài khoản có dạng như sau sẽ **KHÔNG** được phép tham gia
 - Tài khoản có dấu hiệu là nick ảo, không hoạt động (vừa thay ảnh đại diện, ảnh bìa vài phút trước và không có bài đăng nào trên trang cá nhân).
 - Tài khoản không có tên hiển thị (Facebook ma) hoặc tên sử dụng ký tự đặc biệt.
 
-**Đặc biệt chú ý:** Bất cứ ai chặn (block) thành viên trong Ban Quản Trị sẽ bị chặn khỏi nhóm.
-
 ## NỘI QUY ĐĂNG BÀI VIẾT
 
 ### VỀ NỘI DUNG
 - Sử dụng tiếng Việt, có dấu, tránh viết tắt. **KHÔNG** được sử dụng teen-code. **KHÔNG** sử dụng các từ ngữ tục tĩu, khiếm nhã, thiếu văn hóa.
-- **KHÔNG** đăng bài viết quảng cáo (rao vặt, bán sim,...). Có thể đăng bài viết tuyển dụng các công việc liên quan tới ngành nghề CNTT.
-- Nếu đăng bài hỏi đáp, hãy **Google trước** để tránh hỏi những vấn đề đã có sẵn câu trả lời. Hỏi phải nói có đầu có đuôi, nói rõ vấn đề vướng mắc, **KHÔNG** hỏi trống lóc.
-- Dùng chức năng tìm kiếm bài viết trong nhóm trước khi đăng để tránh việc **trùng lặp nội dung**.
-- **KHÔNG** sử dụng các liên kết rút gọn (ouo, adfly, link5s...) hoặc liên kết giới thiệu (ref) trong bài viết với mục đích kiếm lợi nhuận từ nhóm.
-- Nếu đăng bài viết về lập trình, hãy sử dụng các trang như [pastebin.com](http://pastebin.com/index.php) hoặc [gist.github.com](https://gist.github.com/) để đăng code thay vì paste thẳng code trong bài viết.
-- Nếu chia sẻ tài nguyên, liên kết mà thành viên khác có thể download được thì khuyến khích sử dụng trang [mã hóa liên kết của J2TeaM](http://code.junookyo.xyz/j2team-community/) hoặc trang [anlink.top](http://anlink.top/), vừa chống được "Ninja" lại vừa tăng tương tác cho nhóm. Xem bài giới thiệu [tại đây](https://www.facebook.com/groups/j2team.community/permalink/423097854689007/)!
-- Nếu bài viết, tài nguyên không phải là của bạn thì hãy **ghi nguồn** khi chia sẻ vào nhóm để tôn trọng công sức của tác giả.
-- **KHÔNG** yêu cầu người khác cung cấp email trong bình luận. Nếu thực sự cần thiết phải chia sẻ qua email thì vui lòng sử dụng Google Forms.
+- Nếu đăng bài tìm việc, hãy **Tìm Kiếm Trước**. Nếu không có bạn có thể đăng bài tìm kiếm việc làm phải có các nội dung cơ bản như sau: Địa điểm làm việc (ví dụ HCM, HN..), loại công việc (Toàn thời gian, Bán thời gian, Thời Vụ,..), ngành nghề( Sale, kế toán..), các mong muốn khác.
+- **KHÔNG** sử dụng các liên kết rút gọn (ouo, adfly, link5s...) hoặc liên kết giới thiệu (ref) trong bài viết với mục đích kiếm lợi nhuận từ nhóm. Nếu bị phát hiện sẽ bị ban vĩnh viễn và không được xem xét.
+- **KHÔNG** yêu cầu người khác cung cấp email, số điện thoại, thông tin cá nhân trong bình luận. Nếu thực sự cần thiết vui lòng liên hệ admin group để trao đổi.
+- **KHÔNG** Comment chứa nội dung quảng cáo, rao vặt hoặc link rác. Các trường hợp vi phạm sẽ bị band vĩnh viễn.
 
-### VỀ CHỦ ĐỀ
-
-Nhóm được quản lý bởi [J2TEAM](https://www.google.com.vn/search?q=j2team) nên ưu tiên chủ đề về công nghệ thông tin, thảo luận lập trình và bảo mật. Chấp nhận các bài giải trí (miễn là không quá nhảm).
-
-Các bài viết có dạng như sau sẽ KHÔNG được duyệt:
-- Hỏi hoặc chia sẻ cách HACK tài khoản mạng xã hội (Facebook, Google,...) của người khác.
-- Hỏi hoặc chia sẻ cách KHÓA tài khoản Facebook của người khác (cái mà mấy bạn trẻ hay gọi là RIP tài khoản ấy).
-- Các bài liên quan tới chủ đề chia sẻ tool DoS/DDoS/Botnet/Malware. Bài về cách phòng chống, bảo mật web thì được duyệt nhé.
-- **KHÔNG** đăng bài viết liên quan đến chủ đề chính trị, tôn giáo.
-- Bài viết mang tính chất PR cho nhóm, page để câu kéo thành viên.
-- Hỏi xin key, crack, phần mềm bản quyền.
-- Bài chỉ có mỗi liên kết mà không có mô tả gì (spam câu view).
+### CÁC YÊU CẦU VỚI NHÀ TUYỂN DỤNG
+- Nội dung đăng tuyển phải có những **nội dung cơ bản** như sau:
+  - Tên công ty hoặc tổ chức tuyển dụng:
+  - Loại công việc: (Fulltime, Parttime)
+  - Địa điểm làm việc:
+  - Vị trí tuyển:
+  - Số lượng tuyển:
+  - Mô tả công việc:
+  - Các yêu cầu cho ứng viên (nếu có):
+  - Mức lương:
+  - Phúc lợi và các thông tin khác(nếu có):
+  - Thông tin liên hệ:
+  Đặt các **Hashtag** bắt buột như sau: #ĐỊAĐIỂM, #LOẠICÔNGVIỆC, #NGÀNHNGHỀ. Ví dụ: #HCM, #FULLTIME, #SALE
+  Ví dụ về một bài đăng:
+  ![baiviet](https://i.imgur.com/d5Ou3Kf.jpg)
+    
 
 ### VỀ HASHTAG
 
 Vui lòng xem [danh sách #hashtag sử dụng trong nhóm](hashtags.md) để áp dụng cho hợp lý với nội dung bài viết của bạn.
-
-Ví dụ về một [bài viết](https://www.facebook.com/groups/j2team.community/permalink/413843845614408/) sử dụng hashtag:
-
-![hashtag](https://i.imgur.com/qPJ1UgT.png)
 
 ## NỘI QUY ĐĂNG BÌNH LUẬN
 
@@ -62,7 +55,5 @@ Tùy theo mức độ vi phạm nội quy mà các bạn có thể sẽ bị nh�
 ---
 
 Nếu thấy bài viết hoặc bình luận vi phạm nội quy, hãy dùng chức năng "Báo cáo tới quản trị viên" hoặc tag thành viên BQT vào bài viết đó.
-
-Ban quản trị tuyệt đối **KHÔNG** có nhiệm vụ phải hỗ trợ bạn qua Inbox hay Email cá nhân.
 
 P/S: Nội quy sẽ được sửa đổi, cập nhật theo thời gian sao cho phù hợp.
