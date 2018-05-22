@@ -44,7 +44,7 @@ Những tài khoản có dạng như sau sẽ **KHÔNG** được phép tham gia
 
 ### VỀ HASHTAG
 
-Vui lòng xem [danh sách #hashtag sử dụng trong nhóm](hashtags.md) để áp dụng cho hợp lý với nội dung bài viết của bạn.
+Vui lòng xem [danh sách #hashtag sử dụng trong nhóm](/hashtags) để áp dụng cho hợp lý với nội dung bài viết của bạn.
 
 ## NỘI QUY ĐĂNG BÌNH LUẬN
 
