@@ -39,7 +39,7 @@ Những tài khoản có dạng như sau sẽ **KHÔNG** được phép tham gia
   
   **Ví dụ về một bài đăng:**
   
-  [baiviet](https://i.imgur.com/d5Ou3Kf.jpg)
+  ![baiviet](https://i.imgur.com/d5Ou3Kf.jpg)
     
 
 ### VỀ HASHTAG
