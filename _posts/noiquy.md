@@ -1,4 +1,11 @@
-
+---
+layout: post
+title: NỘI QUY
+subtitle: Nội quy hội hỗ trợ việc làm
+gh-repo: daattali/beautiful-jekyll
+gh-badge: [star, fork, follow]
+tags: [noiquy]
+---
 # NỘI QUY GROUP HỘI HỖ TRỢ VIỆC LÀM
 
 Để tránh việc bị ban hoặc bị xóa bài mà không biết nguyên nhân tại sao, các bạn vui lòng **đọc kỹ nội quy** trước khi tham gia nhóm.
