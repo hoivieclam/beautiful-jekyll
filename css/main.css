@@ -529,7 +529,8 @@ footer .theme-by {
     font-size: 40px;
   }
   .intro-header .post-heading h1 {
-    font-size: 50px;
+    font-size: 30px;
+    color:#0079BF;
   }
   .intro-header.big-img .img-desc {
     font-size: 14px;
